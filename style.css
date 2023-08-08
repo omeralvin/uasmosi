@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #0C134F;
+}
+
+.content{
+    margin: 5%;
+    background-color: #F6FFDE;
+    padding: 3rem;
+    box-shadow: 0 0 3px 3px rgba(173, 173, 173, 0.1);
+}
+
+.grid{
+    width: fit-content;
+}
+
+.btn{
+    background-color: #0C134F;
+    color: #FFFBE9;
+}
+
+#btn {
+    margin-left: 20dp;
+}
